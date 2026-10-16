@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+Debug/
+Release/
+x64/
+x86/
+
+# Binaries & build artifacts
+*.o
+*.out
+*.dSYM/
+main
