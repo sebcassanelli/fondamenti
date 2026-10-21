@@ -3,10 +3,8 @@
 
 char massimo(char a, char b) {
   if (a > b) {
-    printf("Il massimo tra a e b è: %d\n", a);
     return a;
   } else {
-    printf("Il massimo tra a e b è: %d\n", b);
     return b;
   }
 }
