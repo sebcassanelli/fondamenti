@@ -1,4 +1,6 @@
+#include <setjmp.h>
 #include <stdio.h>
+#include <stdlib.h>
 // unsigned char is a variable that can store values from 0 to 255
 unsigned char a, b, c;
 int x;
